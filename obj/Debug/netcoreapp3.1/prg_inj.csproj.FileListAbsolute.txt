@@ -1,0 +1,4 @@
+C:\Users\Weabo\source\repos\prg_inj\obj\Debug\netcoreapp3.1\prg_inj.csprojAssemblyReference.cache
+C:\Users\Weabo\source\repos\prg_inj\obj\Debug\netcoreapp3.1\prg_inj.AssemblyInfoInputs.cache
+C:\Users\Weabo\source\repos\prg_inj\obj\Debug\netcoreapp3.1\prg_inj.AssemblyInfo.cs
+C:\Users\Weabo\source\repos\prg_inj\obj\Debug\netcoreapp3.1\prg_inj.csproj.CoreCompileInputs.cache
